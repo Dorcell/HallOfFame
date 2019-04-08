@@ -1,0 +1,10 @@
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.runtimeconfig.json
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.runtimeconfig.dev.json
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+E:\Учебное\Тестовое задание\TestTask\TestApp\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
