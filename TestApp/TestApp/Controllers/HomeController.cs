@@ -12,7 +12,8 @@ namespace TestApp.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            HomeModel _model = new HomeModel() { HelloMessage = "Hello" };
+            return View(_model);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
