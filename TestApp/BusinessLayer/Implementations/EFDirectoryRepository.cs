@@ -38,19 +38,19 @@ namespace BusinessLayer.Implementations
             //throw new NotImplementedException();
         }
 
-        public void SaveDirectory(Directory achieve)
+        public void SaveDirectory(Directory directory)
         {
-            if (achieve.Id == 0)
-                context.Directory.Add(achieve);
+            if (directory.Id == 0)
+                context.Directory.Add(directory);
             else
-                context.Entry(achieve).State = EntityState.Modified;
+                context.Entry(directory).State = EntityState.Modified;
             
             //throw new NotImplementedException();
         }
 
-        public void DeleteDirectory(Directory achieve)
+        public void DeleteDirectory(Directory directory)
         {
-            context.Directory.Remove(achieve);
+            context.Directory.Remove(directory);
             context.SaveChanges();
             // throw new NotImplementedException();
         }
